@@ -108,8 +108,7 @@ class _MonetaryConverterWidgetState extends State<MonetaryConverterWidget> {
                             },
                             decoration: InputDecoration(labelText: keyA),
                           )),
-                      Text(
-                          '$resultMultiplier de $keyA vale $parsedResult $keyB',
+                      Text('$resultMultiplier $keyA vale $parsedResult $keyB',
                           style: const TextStyle(fontWeight: FontWeight.bold))
                     ],
                   )
