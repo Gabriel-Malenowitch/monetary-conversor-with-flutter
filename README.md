@@ -15,3 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# monetary-conversor-with-flutter" 
+
+
+![image](https://github.com/Gabriel-Malenowitch/monetary-conversor-with-flutter/assets/56513919/cdee3c55-5936-47ec-8938-a505e6f0115c)
